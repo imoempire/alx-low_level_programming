@@ -7,7 +7,7 @@
 
 int main(void)
 {
-	ini=t n;
+	int n;
 	int sum;
 
 	sum = 0;
