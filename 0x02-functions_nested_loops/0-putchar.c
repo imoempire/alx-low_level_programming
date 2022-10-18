@@ -4,7 +4,7 @@
  *
  * Return: always 0
  */
-int man(voi)
+int man(void)
 {
 	int str[] = {95, 112, 117, 116, 99, 104, 97, 114};
 	int count, sz;
